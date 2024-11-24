@@ -17,6 +17,7 @@ const initialState = {
   answer: null,
   points: 0,
 };
+console.log();
 
 // Reducer function
 function reducer(state, action) {
